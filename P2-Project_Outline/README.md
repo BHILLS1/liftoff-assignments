@@ -14,11 +14,11 @@ Search: Users will be able to search for yoga poses. The search will return a yo
 Favorites: Users will be able to save pose videos to their Favorites list on their profile page.
 Accept Payment/Donation: Users will be able to submit a one-time payment or donation.
 ### Technologies
-Java
-Spring Data
-JPA, Hibernate
-Stripe Payment
-MySQL
+Java,
+Spring Data,
+JPA, Hibernate,
+Stripe Payment,
+MySQL,
 SQLAlchemy
 ### What I'll Have to Learn
 I'll need to learn how to incorporate the Stripe payment system to accept payment for user subscriptions.
