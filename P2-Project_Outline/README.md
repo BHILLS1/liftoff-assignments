@@ -17,8 +17,9 @@ Accept Payment/Donation: Users will be able to submit a one-time payment or dona
 Java,
 Spring Data,
 JPA, Hibernate,
-Stripe Payment,
+Stripe Payment API,
 MySQL,
-SQLAlchemy
+SQLAlchemy,
+Videos
 ### What I'll Have to Learn
 I'll need to learn how to incorporate the Stripe payment system to accept payment for user subscriptions.
