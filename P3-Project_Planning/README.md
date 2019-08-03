@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Wireframes](P3-Project_Planning/Yogapedia_Wireframes.pdf)
+[Wireframes](https://github.com/BHILLS1/liftoff-assignments/blob/master/P3-Project_Planning/Yogapedia_Wireframes.pdf)
 
 The linked PDF includes 6 wireframes:
 * Homepage
