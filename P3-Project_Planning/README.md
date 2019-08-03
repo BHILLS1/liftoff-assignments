@@ -24,4 +24,4 @@ The linked PDF includes 6 wireframes:
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[Github Project Link](https://github.com/BHILLS1/yogapedia.git)
