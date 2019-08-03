@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Wireframes] (P3-Project_Planning/Yogapedia_Wireframes.pdf)
+[Wireframes](P3-Project_Planning/Yogapedia_Wireframes.pdf)
 
 The linked PDF includes 6 wireframes:
 * Homepage
@@ -20,7 +20,7 @@ The linked PDF includes 6 wireframes:
 
 ### Project Tracker
 
-[Yogapedia Trello Tracker] (https://trello.com/b/wKwajzDi/capstone-project)
+[Yogapedia Trello Tracker](https://trello.com/b/wKwajzDi/capstone-project)
 
 ### Project Repo Link
 
