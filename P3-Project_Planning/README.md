@@ -20,7 +20,7 @@ The linked PDF includes 6 wireframes:
 
 ### Project Tracker
 
-[Yogapedia Trello Tracker](https://trello.com/b/wKwajzDi/capstone-project)
+[Yogapedia Trello Tracker](https://trello.com/invite/b/wKwajzDi/e301ba1006bcac00ac27a801a80788fe/capstone-project)
 
 ### Project Repo Link
 
